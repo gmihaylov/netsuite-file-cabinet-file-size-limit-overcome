@@ -1,4 +1,4 @@
-# NetSuite File Cabine File Size Limit Overcome
+# NetSuite File Cabinet File Size Limit Overcome
 Simple Scheduled script that overcome NetSuite File Cabinet File Size Limit via appendLine API call
 
 ## Used libraries
